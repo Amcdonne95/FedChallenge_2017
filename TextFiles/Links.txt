@@ -1,1 +1,49 @@
 https://fee.org/articles/understanding-says-law-of-markets/
+
+https://data.oecd.org/hha/household-spending.htm HOUSEHOLD EXPENDITURES
+
+https://fred.stlouisfed.org/series/A191RL1Q225SBEA REAL GDP NUMBERS
+
+https://fred.stlouisfed.org/series/UMCSENT MICHIGAN CONSUMER SENTIMENT INDEX
+
+https://fred.stlouisfed.org/series/ACDGNO Value of Manufacturers' New Orders for Consumer Goods: Consumer Durable Goods Industries
+
+https://fred.stlouisfed.org/series/IPDCONGD  Industrial Production: Durable Consumer Goods
+
+https://fred.stlouisfed.org/series/INDPRO?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=categories INDUSTRIAL PRODUCTION INDEX
+
+https://www.bea.gov/newsreleases/national/pi/pinewsrelease.htm CONSUMER OUTLAYS REPORT
+
+https://www.bea.gov/newsreleases/glance.htm OVERALL OUTLOOK
+
+https://fred.stlouisfed.org/series/DSPIC96 REAL DISPOSABLE PERSONAL INCOME
+
+https://fred.stlouisfed.org/series/PI PERSONAL INCOME
+
+https://fred.stlouisfed.org/series/A065RC1A027NBEA PERSONAL INCOME
+
+https://fred.stlouisfed.org/series/A072RC1Q156SBEA PERSONAL SAVINGS AS A PERCENTAGER OF DISPOSABLE PERSONAL INCOME
+
+https://fred.stlouisfed.org/series/A792RC0A052NBEA PERSONAL INCOME PER CAPITA
+
+https://fred.stlouisfed.org/series/RPI REAL PERSONAL INCOME
+
+https://fred.stlouisfed.org/series/MEPAINUSA646N MEDIAN PERSONAL INCOME IN THE US
+
+https://fred.stlouisfed.org/series/PSAVERT PERSONAL SAVINGS RATE
+
+https://fred.stlouisfed.org/series/GPSAVE GROSS PRIVATE SAVINGS
+
+https://fred.stlouisfed.org/series/PSAVE PERSONAL SAVINGS
+
+https://fred.stlouisfed.org/series/W201RC1Q027SBEA NET SAVINGS
+
+https://fred.stlouisfed.org/series/W206RC1Q156SBEA GROSS SAVINGS AS A PERCENT OF GROSS NATIONAL INCOME
+
+https://fred.stlouisfed.org/series/PCEC96 REAL PCE
+
+https://fred.stlouisfed.org/series/PCDGCC96 DURABLE GOODS
+
+https://fred.stlouisfed.org/search?st=REAL+PCE GET DURABLES, NON AND SERVICES 
+
+
